@@ -1,0 +1,1 @@
+"use strict";function init(){console.log("hello stronzi")}require("./bootstrap"),window.$=require("jquery"),$(document).ready(init);
