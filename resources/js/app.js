@@ -4,6 +4,8 @@ require('./bootstrap');
 
 window.$ = require('jquery');
 
+
+
 function addBestOfListener(){
     var target =$('#bestof');
     target.change(bestOfToggle);
